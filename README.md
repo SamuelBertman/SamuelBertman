@@ -51,7 +51,9 @@ My projects combine chemistry, coding, and research with a focus on safety, real
 - **eSpace**
   - *Space Propulsion Systems*
 
-## Certification Notes
+---
+
+## Certification and Webinar Notes
 
 - [Chemical Hazards & Process Safety](https://github.com/SamuelBertman/Chemical-Hazards-and-Process-Safety-Specialization/blob/main/README.md)
 - [ISO 9001]( ) / [AS9100D]( ) / [Good Lab Practice]( )
