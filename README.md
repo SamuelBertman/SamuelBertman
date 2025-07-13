@@ -51,6 +51,8 @@ My projects combine chemistry, coding, and research with a focus on safety, real
 - **eSpace**
   - *Space Propulsion Systems*
 
+Written summaries on blog - link in socials  
+
 ---
 
 ## Certification and Webinar Notes
@@ -65,7 +67,7 @@ My projects combine chemistry, coding, and research with a focus on safety, real
 ## Social Links
 
 - [LinkedIn] https://www.linkedin.com/in/samuel-bertman-6b323a372/
-- *(Personal site or blog coming soon)*
+- [Blog] https://chemistrybriefings.wordpress.com/
 
 ---
 
