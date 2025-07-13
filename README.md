@@ -43,8 +43,8 @@ My projects combine chemistry, coding, and research with a focus on safety, real
   - *Advanced Solid-State Metal Additive and Extrusion Technology*
 - **NESC courses:**
   - *Lithium-ion Batteries: Fundamental Concepts, Battery Safety, and Modeling Techniques*
-- **DSIAC Webinars**
-  - *A Materials Science Perspective on Space Propulsion Technology*
+- **eSpace Webinars**
+  - *Space Propulsion Systems*
 
 [See all certificates here](https://github.com/SamuelBertman/certificates-links) <!-- Update with your actual repo or links -->
 
