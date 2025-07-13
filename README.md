@@ -50,7 +50,7 @@ My projects combine chemistry, coding, and research with a focus on safety, real
 
 ## Certification Notes
 
-- [Chemical Hazards & Process Safety]([./Chemical-Hazards-and-Process-Safety-Specialization.md](https://github.com/SamuelBertman/Chemical-Hazards-and-Process-Safety-Specialization))
+- [Chemical Hazards & Process Safety](./Chemical-Hazards-and-Process-Safety-Specialization.md](https://github.com/SamuelBertman/Chemical-Hazards-and-Process-Safety-Specialization)
 - [ISO 9001]( ) / [AS9100D]( ) / [Good Lab Practice]( )
 - [Fiber-Carbon Nanotube Yarn Hybrid Reinforcement]( )
 - [New Methods in Preparing and Purifying Nanomaterials]( )
