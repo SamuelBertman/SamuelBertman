@@ -53,7 +53,7 @@ My projects combine chemistry, coding, and research with a focus on safety, real
 - [Chemical Hazards & Process Safety](https://github.com/SamuelBertman/Chemical-Hazards-and-Process-Safety-Specialization/blob/main/README.md)
 - [ISO 9001]( ) / [AS9100D]( ) / [Good Lab Practice]( )
 - [Lithium-ion Batteries: Fundamental Concepts, Battery Safety, and Modeling Techniques]( )
-- [Webinars](https://github.com/SamuelBertman/New-Methods-in-Preparing-and-Purifying-Nanomaterials/blob/main/README.md)
+- [Webinars](https://github.com/SamuelBertman/Webinars/blob/main/README.md)
 
 ---
 
