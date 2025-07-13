@@ -5,7 +5,7 @@
 
 ---
 
-## 🔬 Skills & Technologies
+## Skills & Technologies
 
 - **Python** (beginner) — focused on data analysis and scientific computing  
 - **Spectroscopy** — basic principles and hands-on interpretation (Khan Academy + projects)  
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Favorite Projects
+## Favorite Projects
 
 - **materials-safety-analysis**  
   Applying chemical safety frameworks to aerospace polymer use (Coursera + report)   
@@ -26,14 +26,14 @@
 
 ---
 
-## 👨‍🔬 About Me
+## About Me
 
 I’m a chemistry student preparing to specialize in **materials chemistry** for extreme environments, especially aerospace and space tech.  
 My projects combine chemistry, coding, and research with a focus on safety, real-world data, and advanced materials.
 
 ---
 
-## 📚 Certifications
+## Certifications
 
 - **Chemical Hazards & Process Safety** – Coursera *(In progress, July 2025)*  
 - **ISO 9001 / AS9100D / Good Lab Practice** – Alison *(Completed, July 2025)*  
@@ -45,21 +45,21 @@ My projects combine chemistry, coding, and research with a focus on safety, real
 
 ---
 
-## 🌐 Social Links
+## Social Links
 
 - [LinkedIn] https://www.linkedin.com/in/samuel-bertman-6b323a372/
 - *(Personal site or blog coming soon)*
 
 ---
 
-## 🗣️ Languages
+## Languages
 
 - **English:** Fluent
 - **Coding:** Python (beginner, scientific applications)
 
 ---
 
-## ✨ Hobbies
+## Hobbies
 
 - Space materials research
 - Science blogging
