@@ -1,6 +1,6 @@
 # Samuel Bertman
 
-**Aspiring Materials Chemist** | Incoming Chemistry Undergraduate  
+**Aspiring Aerospace Materials Chemist** | Incoming Chemistry Undergraduate  
 **Interests:** Aerospace Materials & Space Tech | Chemical Safety | Research & Scientific Computing
 
 ---
