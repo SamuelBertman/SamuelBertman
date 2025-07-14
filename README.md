@@ -24,6 +24,9 @@
   Basic toolkit using Python to visualize and interpret spectroscopy datasets  
   _(Link coming soon)_
 
+- **Self-Healing Polymers for Space Habitats and Satellites research study**
+  Design and simulation of a light-activated self-healing polymer composite for micrometeoroid damage repair in inflatable Mars habitats. Uses molecular dynamics, FEM, and Martian environment modeling.
+
 ---
 
 ## About Me
