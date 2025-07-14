@@ -36,12 +36,10 @@ My projects combine chemistry, coding, and research with a focus on safety, real
 
 ---
 
-## Certifications
+## Safety certifications
 
 - **Chemical Hazards & Process Safety** – Coursera *(In progress, July 2025)*  
 - **ISO 9001 / AS9100D / Good Lab Practice** – Alison *(In progress, July 2025)*  
-- **NESC courses:**
-  - *Lithium-ion Batteries: Fundamental Concepts, Battery Safety, and Modeling Techniques*
 
 [See all certificates here](https://github.com/SamuelBertman/certificates-links) <!-- Update with your actual repo or links -->
 
