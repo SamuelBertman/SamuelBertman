@@ -26,6 +26,7 @@
 
 - **Self-Healing Polymers for Space Habitats and Satellites research study**
   Design and simulation of a light-activated self-healing polymer composite for micrometeoroid damage repair in inflatable Mars habitats. Uses molecular dynamics, FEM, and Martian environment modeling.
+[SDRP](https://github.com/samuelbertman/SDRP)
 
 ---
 
