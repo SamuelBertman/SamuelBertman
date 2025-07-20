@@ -39,7 +39,7 @@ My projects combine chemistry, coding, and research with a focus on safety, real
 
 ## Safety certifications
 
-- **Chemical Hazards & Process Safety** – Coursera *(In progress, July 2025)*  
+- **Process Safety and Risk Analysis** – UC Davis (Coursera) *(completed)*  
 - **ISO 9001 / AS9100D / Good Lab Practice** – Alison *(In progress, July 2025)*  
 
 [See all certificates here](https://github.com/SamuelBertman/certificates-links) <!-- Update with your actual repo or links -->
