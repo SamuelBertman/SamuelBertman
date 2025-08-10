@@ -1,92 +1,77 @@
-# Samuel Bertman
-
-**Aspiring Aerospace Materials Chemist** | Incoming Chemistry Undergraduate  
-**Interests:** Aerospace Materials & Space Tech | Chemical Safety | Research & Scientific Computing
+# Samuel Bertman  
+**Aerospace Materials Chemist | Polymer & Composite Developer | Scientific Computing Enthusiast**
 
 ---
 
-## Skills & Technologies
-
-- **Python** (beginner) — focused on data analysis and scientific computing  
-- **Spectroscopy** — basic principles and hands-on interpretation (Khan Academy + projects)  
-- **Chemical Safety Systems** — ISO 9001, AS9100D, Good Lab Practice (Alison Certified)  
-- **Scientific Writing & Research Summarization**
+## Professional Summary  
+Early-career aerospace materials chemist passionate about advancing polymer composites and metal matrix composites (MMCs) for space applications. Proficient in Python-based scientific computing (NumPy, SciPy, Matplotlib) to model material behavior and support experimental design. Actively engaged in interdisciplinary aerospace projects focused on materials development, simulation, and design validation.
 
 ---
 
-## Favorite Projects
+## Current Research & Development Focus (2025)
 
-- **materials-safety-analysis**  
-  Applying chemical safety frameworks to aerospace polymer use (Coursera + report)   
-  _(Link coming soon)_
+### Self-Healing Polymers for Space Habitats  
+Conducting modeling and design of light-activated polymer composites capable of autonomous repair under Martian environmental conditions. Completed comprehensive literature reviews and developed preliminary simulation scripts for healing activation.
 
-- **spectroscopy-python**  
-  Basic toolkit using Python to visualize and interpret spectroscopy datasets  
-  _(Link coming soon)_
+### Metal Matrix Composite Heat Shields  
+Evaluating candidate MMC materials for thermal and mechanical resilience during atmospheric re-entry. Developing thermal gradient and mechanical mismatch simulations to inform material selection.
 
-- **Self-Healing Polymers for Space Habitats and Satellites research study**
-  Design and simulation of a light-activated self-healing polymer composite for micrometeoroid damage repair in inflatable Mars habitats. Uses molecular dynamics, FEM, and Martian environment modeling.
-[SDRP](https://github.com/samuelbertman/SDRP)
+### Scientific Computing and Simulation  
+Applying Python tools to simulate materials response, integrating computational models with research goals.
 
----
-
-## About Me
-
-I’m a chemistry student preparing to specialize in **materials chemistry** for extreme environments, especially aerospace and space tech.  
-My projects combine chemistry, coding, and research with a focus on safety, real-world data, and advanced materials.
+### Student Aerospace Collaborations  
+Contributing to UKSEDS and UKSDC projects by supporting material selection and performing simulations to validate design choices.
 
 ---
 
-## Safety certifications
+## Developing Competencies
 
-- **Process Safety and Risk Analysis** – UC Davis (Coursera) *(completed)*  
-- **ISO 9001 / AS9100D / Good Lab Practice** – Alison *(In progress, July 2025)*  
-
-[See all certificates here](https://github.com/SamuelBertman/certificates-links) <!-- Update with your actual repo or links -->
-
-## Webinars
-
-- **NASA**  
-  - *Fiber-Carbon Nanotube Yarn Hybrid Reinforcement*  
-  - *New Methods in Preparing and Purifying Nanomaterials*
-  - *Advanced Solid-State Metal Additive and Extrusion Technology*
-- **eSpace**
-  - *Space Propulsion Systems*
-
-Written summaries on blog - link in socials  
+| Area                        | Tools & Techniques                      | Status                 |
+|-----------------------------|---------------------------------------|------------------------|
+| Polymer Chemistry & Composites | Literature review, CAD modeling        | Developing proficiency |
+| MMCs & Thermal Analysis       | Thermal/mechanical simulations         | Conducting simulations |
+| Scientific Programming        | Python, NumPy, SciPy, Matplotlib       | Actively applying skills |
+| Materials Characterization    | SEM, XRD, FTIR (training planned)      | Preparing for training |
+| Aerospace Standards & Safety  | ISO 9100, AS9100D basics                | Exploring standards    |
+| Research Communication       | Technical briefs, blog writing          | Developing communication |
 
 ---
 
-## Certification and Webinar Notes
+## 2025 Goals & Deliverables
 
-- [Chemical Hazards & Process Safety](https://github.com/SamuelBertman/Chemical-Hazards-and-Process-Safety-Specialization/blob/main/README.md)
-- [ISO 9001]( ) / [AS9100D]( ) / [Good Lab Practice]( )
-- [Lithium-ion Batteries: Fundamental Concepts, Battery Safety, and Modeling Techniques]( )
-- [Webinars](https://github.com/SamuelBertman/Webinars/blob/main/README.md)
-
----
-
-## Social Links
-
-- [LinkedIn] https://www.linkedin.com/in/samuel-bertman-6b323a372/
-- [Blog] https://chemistrybriefings.wordpress.com/
+- Complete literature reviews on self-healing polymers and MMCs for aerospace applications.  
+- Develop CAD models and outline reaction mechanisms for polymer self-healing systems.  
+- Build Python simulation scripts modeling light and temperature triggers for healing activation.  
+- Produce research posters, technical briefs, and blog posts summarizing early findings.  
+- Support aerospace student projects with material design and simulation tasks.  
+- Initiate collaboration with university aerospace labs for future experimental research.
 
 ---
 
-## Languages
+## Professional Development Path
 
-- **English:** Fluent
-- **Coding:** Python (beginner, scientific applications)
-
----
-
-## Hobbies
-
-- Space materials research
-- Science blogging
-- Connecting with professionals
-- Learning simulation tools
+- Gain hands-on experience with SEM, XRD, FTIR instrumentation and aerospace safety standards.  
+- Enhance leadership through participation in student aerospace engineering challenges.  
+- Publish open-source simulation tools and tutorials documenting methodology.  
+- Pursue internships and research collaborations to connect simulations with experimental validation.
 
 ---
 
-*This portfolio is actively growing with code, data, reports, and certifications in materials chemistry and aerospace applications.*
+## Certifications & Projects
+
+- [Chemical Hazards & Process Safety Specialization](https://github.com/SamuelBertman/Chemical-Hazards-and-Process-Safety-Specialization/blob/main/README.md) — Safety protocols relevant to materials chemistry.  
+- [Self-Directed Research Projects (SDRP)](https://github.com/samuelbertman/SDRP) — Independent aerospace materials development and simulation study.  
+- [All Certificates](https://github.com/SamuelBertman/certificates-links) — Comprehensive list of certifications and credentials.
+
+---
+
+## Contact & Collaboration
+
+- LinkedIn: [linkedin.com/in/samuel-bertman](https://linkedin.com/in/samuel-bertman)  
+- Research blog: *Chemistry Briefings* (launching soon)  
+- GitHub: Portfolio of aerospace materials simulations and research documentation (in progress)  
+- Email: [your.email@example.com] *(Add your email if comfortable)*
+
+---
+
+Focused on advancing aerospace materials through interdisciplinary collaboration, scientific rigor, and continuous skill development — building a strong foundation for impactful research contributions.
