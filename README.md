@@ -37,14 +37,14 @@ Conducting modeling and design of light-activated polymer composites capable of 
 
 - [Chemical Hazards & Process Safety Specialization](https://github.com/SamuelBertman/Chemical-Hazards-and-Process-Safety-Specialization/blob/main/README.md) — Safety protocols relevant to materials chemistry.  
 - [Self-Directed Research Projects (SDRP)](https://github.com/samuelbertman/SDRP) — Independent aerospace materials development and simulation study.  
-- [All Certificates](https://github.com/SamuelBertman/certificates-links) —
+- [Simulation Work](https://github.com/SamuelBertman/simulation-skills) — Simulation write-ups
 
 ---
 
 ## Contact & Collaboration
 
 - LinkedIn: [linkedin.com/in/samuel-bertman](https://linkedin.com/in/samuel-bertman)  
-- Research blog: *Chemistry Briefings* (launching soon)  
+ 
 - GitHub: Portfolio of aerospace materials simulations and research documentation (in progress)  
 - Email: [your.email@example.com] *(Add your email if comfortable)*
 
